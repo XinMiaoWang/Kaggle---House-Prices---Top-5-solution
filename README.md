@@ -1,7 +1,6 @@
 # House Prices: Advanced Regression Techniques
 
-This is a [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
+This is a Kaggle competition called [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
-Result
-  LB: 0.10570
+Up to now my best score is LB: 0.10570
 
