@@ -6,9 +6,9 @@ Up to now my best score is LB: 0.10570 . But this model is unstable , your LB ma
 
 ---
 
-If you failed to open ipynb on github, you can click on the following URL. It can help you see it quickly!
+***If you failed to open ipynb on github, you can click on the following URL. It can help you see it quickly!***
 
-[Kaggle-House Prices 1% solution](https://nbviewer.jupyter.org/github/XinMiaoWang/Kaggle-House-Prices-Top-5-solution/blob/master/House_price_1%25.ipynb).
+***[Kaggle-House Prices 1% solution](https://nbviewer.jupyter.org/github/XinMiaoWang/Kaggle-House-Prices-Top-5-solution/blob/master/House_price_1%25.ipynb).***
 
 ---
 
